@@ -20,11 +20,14 @@
     "@angular/platform-browser-dynamic": "~10.2.0",
     "@angular/router": "~10.2.0",
     "@carbon/icons-angular": "^11.2.1",
+    "apollo-angular": "^2.1.0",
     "carbon-components": "^10.23.2",
     "carbon-components-angular": "^4.24.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.10.2",
+    "@apollo/client": "^3.0.0",
+    "graphql": "^15.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1002.0",
